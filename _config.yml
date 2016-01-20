@@ -1,0 +1,28 @@
+name: Parrish
+favicon: null
+layout_spectrum: 0.9252761902753264
+typography_spectrum: 0.5665196923073381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1511623184196651
+  lightness: 0.1870477085467428
+  saturation: 0.8649355620145798
+  rhythmicContrast: 0.9034116589464247
+purpose: []
